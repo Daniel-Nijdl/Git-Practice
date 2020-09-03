@@ -1,3 +1,3 @@
 # Git-Practice
 
-By Daniel Nijdl
+This is a new line.
